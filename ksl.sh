@@ -14,12 +14,12 @@ clear_terminal() {
 # Custom text to be displayed before the menu
 custom_text() {
   echo ""
-  echo "  _   __                     _____          _                           " 
-  echo " | | / /___ _               |  ___|___  ___| |_                         "
-  echo " | |/ /  __| |      ____    | |_  / _ \/ __|  _|          _   _  ____   "
-  echo " | |\ \__  \ |__   |____|   |  _|/ /_\ \__ \ |_           \\_// /_/| |  "
-  echo " |_| \_\___/____|           |_| /_/   \_\__/\__|           \_/     |_|  "
-  echo "                      https://0xzipp0.github.io/theplaybook/post/about/ "
+  echo "  _   __                     _____          _                  "
+  echo " | | / /___ _               |  ___|___  ___| |_                "
+  echo " | |/ /  __| |      ____    | |_  / _ \/ __|  _|               "
+  echo " | |\ \__  \ |__   |____|   |  _|/ /_\ \__ \ |_                "
+  echo " |_| \_\___/____|           |_| /_/   \_\__/\__|          v1   "
+  echo "  https://0xzipp0.github.io/theplaybook/                       "
   echo ""
 }
 
