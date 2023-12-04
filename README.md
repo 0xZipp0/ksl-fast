@@ -27,4 +27,4 @@ This is a Bash script to fix the Kali Linux repository, add a Kali repository to
 
 3. Run the bash script
 
-   ```sudo bash kali.sh```
+   ```sudo bash ksl.sh```
