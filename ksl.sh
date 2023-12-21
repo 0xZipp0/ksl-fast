@@ -19,7 +19,7 @@ custom_text() {
   echo " | |/ /  __| |      ____    | |_  / _ \/ __|  _|               "
   echo " | |\ \__  \ |__   |____|   |  _|/ /_\ \__ \ |_                "
   echo " |_| \_\___/____|           |_| /_/   \_\__/\__|          v1   "
-  echo "  https://0xzipp0.github.io/theplaybook/                       "
+  echo " https://theplaybook.site/docs/fast-kali-repo/                 "
   echo ""
 }
 
